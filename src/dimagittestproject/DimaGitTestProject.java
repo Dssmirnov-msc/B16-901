@@ -16,7 +16,7 @@ public class DimaGitTestProject {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");  
-        System.out.println("Fuck off");
+        System.out.println("Fuck Yuo");
     }
     
 }
